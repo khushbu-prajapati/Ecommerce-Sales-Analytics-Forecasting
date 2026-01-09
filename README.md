@@ -46,6 +46,6 @@ detecting anomalies, and forecasting future demand with confidence intervals.
 Ecommerce-Sales-Analytics-Forecasting/
 │
 ├── notebooks/
-│ └── E-Commerce Sales Analytics & Forecasting.ipynb
+│   └── Ecommerce-Sales-Analytics-Forecasting.ipynb
 │
 ├── README.md
